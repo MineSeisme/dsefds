@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "chalk": "^2.4.1",
+    "cpu-stat": "^2.0.1",
+    "cpu-stats": "^1.0.0",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "file:node_modules/ffmpeg",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs-extra": "^7.0.0",
+    "libsodium-wrappers": "^0.7.3",
+    "mathjs": "^5.2.0",
+    "moment": "^2.22.2",
+    "opusscript": "0.0.6",
+    "performance-now": "^2.1.0",
+    "snekfetch": "^4.0.4",
+    "uws": "^10.148.2",
+    "weather-js": "^2.0.0",
+    "youtube-audio-stream": "^0.2.0",
+    "ytdl-core": "^0.21.1"
+  }
+}
